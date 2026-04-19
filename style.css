@@ -1,0 +1,47 @@
+body {
+    background-color: #060204;
+    margin: 0;
+}
+
+h1 {
+    color: #20d845; 
+    font-family: 'Georgia', serif;
+}
+
+p {
+    color: #af9085; 
+    font-family: 'Verdana', sans-serif;
+}
+
+h2 {
+    color: #2d911f;
+    font-family: 'Verdana', sans-serif;
+}
+
+h3 {
+    color: #1d551f; 
+    font-family: 'Georgia', serif;
+}
+
+li {
+    color: #af9085; 
+    font-family: 'Verdana', sans-serif;
+}
+
+a {
+    color: #20d845;
+}
+
+main {
+    margin: 40px;
+    padding: 20px;
+}
+.box {
+    width: 250px;
+    height: 100px;
+    background-color: #1d551f;
+    border: 3px solid #20d845;
+    padding: 20px;
+    margin: 20px;
+    color: #ffffff; 
+}
